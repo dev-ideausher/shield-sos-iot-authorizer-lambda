@@ -1,0 +1,16 @@
+{
+  "name": "shield-sos-iot-authorizer-lambda",
+  "version": "1.0.0",
+  "description": "shield-sos-iot-authorizer-lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manjeet Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mongodb": "^6.9.0",
+    "mongoose": "^8.7.2"
+  }
+}
